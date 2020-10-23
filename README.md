@@ -1,2 +1,2 @@
-# Kakauma Tangazo App Project
+# Kakauma Announcement (Tangazo) App Project
 An app to bridge communication gap between refugees and NGOs
